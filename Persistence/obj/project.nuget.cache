@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mnSL1RZmsdVAvVu7Xcwd3oiKLp/JvftQcldnvoNKqaeDpKm26We2VJVT50axACNMKKne/4HEeJTKXDnt65fXlQ==",
+  "dgSpecHash": "6pIe3NDudMIsqiTQHkYTB/mFXhLvtFYIQDipfX9wH0W2qj/PKU7v4Pt3YzINfY/oxuLW17A/pTfgbM8oR8yLeg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\lenovo\\Desktop\\Reactivities\\Persistence\\Persistence.csproj",
+  "projectFilePath": "C:\\Users\\lenovo\\Desktop\\Projekti-Lab1\\Persistence\\Persistence.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\lenovo\\.nuget\\packages\\microsoft.data.sqlite.core\\5.0.1\\microsoft.data.sqlite.core.5.0.1.nupkg.sha512",
     "C:\\Users\\lenovo\\.nuget\\packages\\microsoft.dotnet.platformabstractions\\3.1.6\\microsoft.dotnet.platformabstractions.3.1.6.nupkg.sha512",

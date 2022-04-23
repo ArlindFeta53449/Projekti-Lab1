@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HrStZBAAbiS8mmg+wTLGVUIy6gQCqmm/K9WHbIqRprIWd7ZPlizYHvKOcJv0n8E7/rx3RQEV0Szri21JqUVyKg==",
+  "dgSpecHash": "gGpqRVkSS0J/FftEFoA4gVS8KbjLEC5zFhs6nO/SR23E1ELKFf0bk3HqKpUoNxLmDQSommepn3TqZITKEtKTZg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\lenovo\\Desktop\\Reactivities\\Application\\Application.csproj",
+  "projectFilePath": "C:\\Users\\lenovo\\Desktop\\Projekti-Lab1\\Application\\Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\lenovo\\.nuget\\packages\\microsoft.data.sqlite.core\\5.0.1\\microsoft.data.sqlite.core.5.0.1.nupkg.sha512",
     "C:\\Users\\lenovo\\.nuget\\packages\\microsoft.dotnet.platformabstractions\\3.1.6\\microsoft.dotnet.platformabstractions.3.1.6.nupkg.sha512",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QplTDjr8NFwj2066jdJ28vYqdJDFdiSolgQFwizoJcsjOp2LyTow1BMsgaFNtnE240GTPzRD+yandgBkM1UJUg==",
+  "dgSpecHash": "2RF0egiq+DePVCZwga/bbbkKuz3CpRns3IXuY0RKrcNzkDH1IdFhiBrTv9K4Cpz1YiNG3XTl+J6kf8Y22CcfpQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\lenovo\\Desktop\\Reactivities\\API\\API.csproj",
+  "projectFilePath": "C:\\Users\\lenovo\\Desktop\\Projekti-Lab1\\API\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\lenovo\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\lenovo\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

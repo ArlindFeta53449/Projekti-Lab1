@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lenovo\\Desktop\\Reactivities\\Domain\\Domain.csproj",
+      "projectUniqueName": "C:\\Users\\lenovo\\Desktop\\Projekti-Lab1\\Domain\\Domain.csproj",
       "projectName": "Domain",
-      "projectPath": "C:\\Users\\lenovo\\Desktop\\Reactivities\\Domain\\Domain.csproj",
+      "projectPath": "C:\\Users\\lenovo\\Desktop\\Projekti-Lab1\\Domain\\Domain.csproj",
       "packagesPath": "C:\\Users\\lenovo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lenovo\\Desktop\\Reactivities\\Domain\\obj\\",
+      "outputPath": "C:\\Users\\lenovo\\Desktop\\Projekti-Lab1\\Domain\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config"
